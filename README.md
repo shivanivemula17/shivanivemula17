@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivanivemula17](https://github.com/shivanivemula17)
 
-- 💬 Ask me about **Html,css,js,python,MySQL,Django**
+- 💬 Ask me about **Html,css,js,jquery,python,MySQL,Django**
 
 - 📫 How to reach me **shivanivemula17@gmail.com**
 
