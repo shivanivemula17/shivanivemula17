@@ -16,7 +16,7 @@
 ## 📂 My Projects  
 
 ### 🖥️ **Full Stack & Web Development**  
-✔️ **Angel Prints** - An E-commerce website using **Django & MySQL**  
+✔️ **Indus sale** - An E-commerce website using **Django & MySQL**  
 ✔️ **OBS (Online Book Store)** - A book-selling web app using **Django & MySQL**  
 ✔️ **Shopping Website (Indus Sale)** - A complete e-commerce website  
 ✔️ **Web Portfolio** - A personal portfolio showcasing my skills  
