@@ -30,10 +30,12 @@ Here are some of the **cool projects** I've worked on:
 - **OBS Online Book Store** – E-commerce platform for books.  
 - **Shopping Website (Indus Sale)** – Online shopping platform.  
 - **Coffee Marketplace Workshop** – Marketplace for coffee sales.  
-- **8-Bit Website** – A retro-styled web design.  
+- **8-Bit Website** – A retro-styled web design.
+- **Photographer Portfolio Page** – An accractive photographer portfolio page.
 - **Portfolio Page** – A simple, elegant portfolio page for personal branding.
 
 #### **📊 Data Analysis & SQL:**
+- **Customer churn Analysis** – Analyzed customer data for churn pattern. 
 - **Zomato Sales Analysis** – Analyzed sales data for restaurant trends.  
 - **Diwali Sales Analysis** – Insights into sales data during the festive season.  
 - **Udemy Data Analysis** – Course and enrollment trends on Udemy.  
