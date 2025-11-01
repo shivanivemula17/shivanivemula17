@@ -73,11 +73,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="36" height="36" alt="Matplotlib" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="36" height="36" alt="Seaborn" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="36" height="36" alt="scikit-learn" />
+  <img src="https://github.com/user-attachments/assets/7ade9021-1d1d-4f98-b62c-7f9c51fa6678" width="36" height="36" alt="scikit-learn" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="36" height="36" alt="Keras" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/NLTK_logo.png" width="36" height="36" alt="NLTK" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Tableau_Logo.png" width="36" height="36" alt="Tableau" />
+  <img src="https://github.com/user-attachments/assets/206c5f1d-0a5e-478a-8daf-2869531d1e80" width="55" height="55" alt="NLTK" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="150" height="200" alt="Tableau" />
 </p>
 
 
