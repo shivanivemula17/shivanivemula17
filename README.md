@@ -41,10 +41,13 @@
 - **[HMIS-SQL-analysis-](https://github.com/shivanivemula17/HMIS-SQL-analysis-)** — SQL analysis for Hospital Management Information System.
 
 ### 📊 Tableau Dashboards
-- **[Electric Vehicle Dashboard](https://github.com/shivanivemula17/Electric-Vehicle-Dashboard)** — Interactive Tableau dashboard analyzing EV sales and trends.  
-- **[HR Analysis Dashboard](https://github.com/shivanivemula17/HR-Analysis-AdventureWorks)** — HR data insights using AdventureWorks 2022 database.  
-- **[Sales Analysis Dashboard](https://github.com/shivanivemula17/Sales-Analysis-AdventureWorks)** — Sales performance analysis with revenue and profit trends.  
-- **[Superstore Tableau Dashboard](https://github.com/shivanivemula17/Superstore-Tableau-Dashboard)** — Superstore sales, customer, and product analysis with interactive filters.
+- **[Electric Vehicle Dashboard](https://github.com/shivanivemula17/electric_vehicle_tableau_dashboard)** — Interactive dashboard analyzing electric vehicle sales and trends.  
+- **[HR Analysis Dashboard](https://github.com/shivanivemula17/HR_analysis_tableau_dashboard)** — HR insights and employee metrics. 
+- **[HR Analysis AdventureWorks](https://github.com/shivanivemula17/HR_analysis_tableau_dashboard_ssms)** — HR analysis using AdventureWorks 2022 database tables.  
+- **[Sales Analysis Dashboard](https://github.com/shivanivemula17/sales_analysis_tableau_dashboard_ssms)** — Sales performance analysis with revenue and profit trends.  
+- **[Advanced Sales Analysis Dashboard](https://github.com/shivanivemula17/sales_analysis_tableau_dashboard_2_ssms)** — Detailed sales insights with more KPIs and advanced metrics.  
+- **[Superstore Tableau Dashboard](https://github.com/shivanivemula17/superstore_tableau_dashboard)** — Superstore sales, customer, and product analysis with interactive filters.
+
 
 ### 🌐 Web Development & Frontend
 - **[web-portfolio](https://github.com/shivanivemula17/web-portfolio)** — Personal portfolio (HTML, CSS, JS).  
