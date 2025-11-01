@@ -53,6 +53,8 @@
 - **[photographer-portfolio](https://github.com/shivanivemula17/photographer-portfolio)** — HTML portfolio for a photographer.  
 - **[shopping-website](https://github.com/shivanivemula17/shopping-website)** — Static shopping website.  
 - **[OBS-online-book-store-](https://github.com/shivanivemula17/OBS-online-book-store-)** — Online Bookstore project.
+- **[Coffee-Marketplace-Workshop-Website](https://github.com/shivanivemula17/Coffee-Marketplace-Workshop-Website)** — Coffee marketplace mockup website.  
+- **[8bit-website](https://github.com/shivanivemula17/8bit-website)** — Retro-styled 8-bit themed website.
 
 ### 🧰 Small Tools & Utilities
 - **[Random-Password-Generator](https://github.com/shivanivemula17/Random-Password-Generator)** — Simple password generator.  
