@@ -23,8 +23,6 @@
 
 ## 🔥 Featured Projects (All public repos)
 
-> Each project below links to its repository. Click to view code, notebooks, and dashboards.
-
 ### 🤖 Machine Learning & NLP
 - **[multi-PDF_chatbot](https://github.com/shivanivemula17/multi-PDF_chatbot)** — Chatbot that works with multiple PDFs (Python).  
 - **[movie_recomendation_system](https://github.com/shivanivemula17/movie_recomendation_system)** — Content-based movie recommendation system.  
