@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani Vemula</h1>
-<h3 align="center">A Tech Enthusiast Skilled in Machine Learning, Deep Learning, NLP, and Full-Stack Development</h3>
+<h3 align="center">A Tech Enthusiast Skilled in Machine Learning, Deep Learning, NLP, Full-Stack Development, and Data Visualization</h3>
 
 <div align="center">
   <img alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
@@ -12,10 +12,10 @@
 ---
 
 ### 🚀 About Me:
-- 🌱 Actively learning and exploring **AI** and full-stack development.  
+- 🌱 Actively learning and exploring **AI**, **Data Visualization**, and **full-stack development**.  
 - ✅ Completed a **Python Full Stack Development** course.  
-- 📊 Passionate about **Data Analysis** and building ML solutions.  
-- 💻 Skilled in **HTML, CSS, JavaScript, jQuery, Python, Django, MySQL, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, NLTK**.  
+- 📊 Passionate about **Data Analysis**, **Tableau dashboards**, and building ML solutions.  
+- 💻 Skilled in **HTML, CSS, JavaScript, jQuery, Python, Django, MySQL, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, NLTK, Tableau**.  
 - 👨‍💻 Explore my projects below or on my [GitHub profile](https://github.com/shivanivemula17).  
 - 📫 **Email**: [shivanivemula17@gmail.com](mailto:shivanivemula17@gmail.com)
 
@@ -23,39 +23,38 @@
 
 ## 🔥 Featured Projects (All public repos)
 
-> Each project below links to its repository. Click to view code, notebooks, and any included notes/screenshots.
+> Each project below links to its repository. Click to view code, notebooks, and dashboards.
 
 ### 🤖 Machine Learning & NLP
-- **[multi-PDF_chatbot](https://github.com/shivanivemula17/multi-PDF_chatbot)** — A chatbot project that works with multiple PDFs (Python). *(Updated Sep 12, 2025)*  
-- **[movie_recomendation_system](https://github.com/shivanivemula17/movie_recomendation_system)** — Content-based movie recommendation system implemented in a Jupyter notebook.  
-- **[creditcard_fraud_detection](https://github.com/shivanivemula17/creditcard_fraud_detection)** — Credit card fraud classification model (Python).  
-- **[houseprice_prediction](https://github.com/shivanivemula17/houseprice_prediction)** — House price prediction notebook showing data cleaning and model building.  
-- **[currencyconvertor](https://github.com/shivanivemula17/currencyconvertor)** — Small Python currency converter / chatbot style utility.
+- **[multi-PDF_chatbot](https://github.com/shivanivemula17/multi-PDF_chatbot)** — Chatbot that works with multiple PDFs (Python).  
+- **[movie_recomendation_system](https://github.com/shivanivemula17/movie_recomendation_system)** — Content-based movie recommendation system.  
+- **[creditcard_fraud_detection](https://github.com/shivanivemula17/creditcard_fraud_detection)** — Credit card fraud detection model.  
+- **[houseprice_prediction](https://github.com/shivanivemula17/houseprice_prediction)** — House price prediction model and analysis.  
+- **[currencyconvertor](https://github.com/shivanivemula17/currencyconvertor)** — Python currency converter utility.
 
 ### 📊 Data Analysis & SQL
-- **[customer-churn-data-analysis](https://github.com/shivanivemula17/customer-churn-data-analysis)** — Exploratory data analysis on customer churn (Jupyter Notebook).  
-- **[zomato-sales-analysis](https://github.com/shivanivemula17/zomato-sales-analysis)** — Zomato sales EDA and visualizations.  
-- **[Diwali-sales-analysis](https://github.com/shivanivemula17/Diwali-sales-analysis)** — Diwali season sales analysis, EDA & charts.  
-- **[udemy-data-analysis](https://github.com/shivanivemula17/udemy-data-analysis)** — Analysis of Udemy course dataset.  
+- **[customer-churn-data-analysis](https://github.com/shivanivemula17/customer-churn-data-analysis)** — EDA on customer churn.  
+- **[zomato-sales-analysis](https://github.com/shivanivemula17/zomato-sales-analysis)** — Zomato sales EDA and charts.  
+- **[Diwali-sales-analysis](https://github.com/shivanivemula17/Diwali-sales-analysis)** — Diwali sales analysis with visualizations.  
+- **[udemy-data-analysis](https://github.com/shivanivemula17/udemy-data-analysis)** — Udemy course dataset analysis.  
 - **[Netflix-data-analysis](https://github.com/shivanivemula17/Netflix-data-analysis)** — Netflix dataset EDA and insights.  
 - **[HMIS-SQL-analysis-](https://github.com/shivanivemula17/HMIS-SQL-analysis-)** — SQL analysis for Hospital Management Information System.
 
+### 📊 Tableau Dashboards
+- **[Electric Vehicle Dashboard](https://github.com/shivanivemula17/Electric-Vehicle-Dashboard)** — Interactive Tableau dashboard analyzing EV sales and trends.  
+- **[HR Analysis Dashboard](https://github.com/shivanivemula17/HR-Analysis-AdventureWorks)** — HR data insights using AdventureWorks 2022 database.  
+- **[Sales Analysis Dashboard](https://github.com/shivanivemula17/Sales-Analysis-AdventureWorks)** — Sales performance analysis with revenue and profit trends.  
+- **[Superstore Tableau Dashboard](https://github.com/shivanivemula17/Superstore-Tableau-Dashboard)** — Superstore sales, customer, and product analysis with interactive filters.
+
 ### 🌐 Web Development & Frontend
-- **[web-portfolio](https://github.com/shivanivemula17/web-portfolio)** — Personal portfolio built with HTML, CSS, and JavaScript.  
-- **[Portfolio-Page](https://github.com/shivanivemula17/Portfolio-Page)** — Another portfolio/landing page project (HTML).  
-- **[Portfolio-Page (alternate / older naming included above)](https://github.com/shivanivemula17/Portfolio-Page)** — Personal branding page and showcase.  
-- **[photographer-portfolio](https://github.com/shivanivemula17/photographer-portfolio)** — Attractive HTML portfolio for a photographer.  
-- **[shopping-website](https://github.com/shivanivemula17/shopping-website)** — Static shopping website (HTML).  
-- **[Coffee-Marketplace-Workshop-Website](https://github.com/shivanivemula17/Coffee-Marketplace-Workshop-Website)** — Coffee marketplace mockup (HTML).  
-- **[8bit-website](https://github.com/shivanivemula17/8bit-website)** — Retro-styled 8-bit themed website (HTML).  
-- **[OBS-online-book-store-](https://github.com/shivanivemula17/OBS-online-book-store-)** — Online Bookstore project (HTML; project overview present).
+- **[web-portfolio](https://github.com/shivanivemula17/web-portfolio)** — Personal portfolio (HTML, CSS, JS).  
+- **[Portfolio-Page](https://github.com/shivanivemula17/Portfolio-Page)** — Portfolio/landing page project.  
+- **[photographer-portfolio](https://github.com/shivanivemula17/photographer-portfolio)** — HTML portfolio for a photographer.  
+- **[shopping-website](https://github.com/shivanivemula17/shopping-website)** — Static shopping website.  
+- **[OBS-online-book-store-](https://github.com/shivanivemula17/OBS-online-book-store-)** — Online Bookstore project.
 
 ### 🧰 Small Tools & Utilities
-- **[Random-Password-Generator](https://github.com/shivanivemula17/Random-Password-Generator)** — Simple password generator using HTML, CSS and JavaScript.  
-- **[shopping-website (front-end)](https://github.com/shivanivemula17/shopping-website)** — Front-end shopping demo (HTML/CSS).
-
-### 📁 Profile & Misc
-- **[shivanivemula17](https://github.com/shivanivemula17/shivanivemula17)** — This is my profile README repository (you are here).  
+- **[Random-Password-Generator](https://github.com/shivanivemula17/Random-Password-Generator)** — Simple password generator.  
 
 ---
 
@@ -75,34 +74,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="36" height="36" alt="Keras" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/NLTK_logo.png" width="36" height="36" alt="NLTK" />
-  <img src="https://avatars.githubusercontent.com/u/12392577?s=200&v=4" width="36" height="36" alt="LangChain" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Tableau_Logo.png" width="36" height="36" alt="Tableau" />
 </p>
 
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanivemula17&langs_count=10&layout=compact&theme=radical&hide=css" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanivemula17&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanivemula17&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌍 Connect with Me
-<p align="center">
-  <a href="https://instagram.com/srihari_shivani" target="_blank">Instagram</a> •
-<!--<a href="https://x.com/srihari_shivani" target="_blank">X / Twitter</a> •-->
-  <a href="https://www.linkedin.com/in/shivani-vemula" target="_blank">LinkedIn</a>
-</p>
 
 ---
 
