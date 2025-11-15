@@ -78,6 +78,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="36" height="36" alt="Keras" />
   <img src="https://github.com/user-attachments/assets/206c5f1d-0a5e-478a-8daf-2869531d1e80" width="55" height="55" alt="NLTK" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="150" height="200" alt="Tableau" />
+  <img src="https://tse3.mm.bing.net/th/id/OIP.MXlR-c5ZYZxD4gSsr8G24wAAAA?cb=ucfimg2&pid=ImgDet&ucfimg=1&w=178&h=178&c=7&dpr=1.5&o=7&rm=3" width="36" height="36" alt="KNIME" />
 </p>
 
 
