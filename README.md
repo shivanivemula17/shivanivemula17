@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me:
-- 🌱 Actively learning and exploring **AI**, **Data Visualization**, and **full-stack development**.  
+- 🌱 Actively learning and exploring **AI**, **Data Visualization**, and **KNIME Analytics Platform**.  
 - ✅ Completed a **Python Full Stack Development** course.  
 - 📊 Passionate about **Data Analysis**, **Tableau dashboards**, and building ML solutions.  
 - 💻 Skilled in **HTML, CSS, JavaScript, jQuery, Python, Django, MySQL, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, NLTK, Tableau**.  
