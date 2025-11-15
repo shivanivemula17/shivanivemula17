@@ -40,11 +40,15 @@
 
 ### 📊 Tableau Dashboards
 - **[Electric Vehicle Dashboard](https://github.com/shivanivemula17/electric_vehicle_tableau_dashboard)** — Interactive dashboard analyzing electric vehicle sales and trends.  
-- **[HR Analysis Dashboard](https://github.com/shivanivemula17/HR_analysis_tableau_dashboard)** — HR insights and employee metrics. 
-- **[HR Analysis AdventureWorks](https://github.com/shivanivemula17/HR_analysis_tableau_dashboard_ssms)** — HR analysis using AdventureWorks 2022 database tables.  
+- **[HR Analysis Dashboard1](https://github.com/shivanivemula17/HR_analysis_tableau_dashboard)** — HR insights and employee metrics. 
+- **[HR Analysis AdventureWorks2](https://github.com/shivanivemula17/HR_analysis_tableau_dashboard_ssms)** — HR analysis using AdventureWorks 2022 database tables.  
 - **[Sales Analysis Dashboard](https://github.com/shivanivemula17/sales_analysis_tableau_dashboard_ssms)** — Sales performance analysis with revenue and profit trends.  
 - **[Advanced Sales Analysis Dashboard](https://github.com/shivanivemula17/sales_analysis_tableau_dashboard_2_ssms)** — Detailed sales insights with more KPIs and advanced metrics.  
 - **[Superstore Tableau Dashboard](https://github.com/shivanivemula17/superstore_tableau_dashboard)** — Superstore sales, customer, and product analysis with interactive filters.
+- **[HR Analysis Dashboard3](https://github.com/shivanivemula17/HR_analysis_Dashboard)** — HR analysis using AdventureWorks 2022 database tables.  
+- **[Car Sales Dashboard](https://github.com/shivanivemula17/car_sales_dashboard)** — Car brands, mileage, engine CC, and price analysis. 
+- **[Hospital Patient Records Dashboard](https://github.com/shivanivemula17/Hospital-Patients_records_Dashboard)** — Encounters, patients, payers & procedure analysis.
+- **[CRM Sales Opportunities Dashboard](https://github.com/shivanivemula17/CRM_sales_opportunitie_Dashboard)** — Leads, opportunities, pipeline value & win/loss insights.
 
 
 ### 🌐 Web Development & Frontend
@@ -55,7 +59,12 @@
 - **[OBS-online-book-store-](https://github.com/shivanivemula17/OBS-online-book-store-)** — Online Bookstore project.
 - **[Coffee-Marketplace-Workshop-Website](https://github.com/shivanivemula17/Coffee-Marketplace-Workshop-Website)** — Coffee marketplace mockup website.  
 - **[8bit-website](https://github.com/shivanivemula17/8bit-website)** — Retro-styled 8-bit themed website.
+  
 
+### 🔧 KNIME Workflows
+- **[Car Data Cleaning & Preprocessing – KNIME Workflow](https://github.com/shivanivemula17/KNIME-data_cleaning-preprocessing-1.cars_dataset)** — Complete data cleaning, transformation, and preprocessing pipeline using KNIME.
+
+  
 ### 🧰 Small Tools & Utilities
 - **[Random-Password-Generator](https://github.com/shivanivemula17/Random-Password-Generator)** — Simple password generator.  
 
