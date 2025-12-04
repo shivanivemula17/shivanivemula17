@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani Vemula</h1>
-<h3 align="center">A Tech Enthusiast Skilled in Machine Learning, Deep Learning, NLP, Full-Stack Development, and Data Visualization</h3>
+<h3 align="center">A Tech Enthusiast Skilled in Machine Learning, Deep Learning, NLP, Full-Stack Development, Data Visualization, Data Engineering</h3>
 
 <div align="center">
   <img alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
@@ -12,10 +12,10 @@
 ---
 
 ### 🚀 About Me:
-- 🌱 Actively learning and exploring **AI**, **Data Visualization**, and **KNIME Analytics Platform**.  
+- 🌱 Actively learning and exploring ** AI, Data Analytics, Data Visualization, Data Engineering**.
 - ✅ Completed a **Python Full Stack Development** course.  
 - 📊 Passionate about **Data Analysis**, **Tableau dashboards**, and building ML solutions.  
-- 💻 Skilled in **HTML, CSS, JavaScript, jQuery, Python, Django, MySQL, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, NLTK, Tableau**.  
+- 💻 Skilled in **HTML, CSS, JavaScript, jQuery, Python, Django, MySQL, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, NLTK, Tableau, PySpark, Microsoft Fabric**.  
 - 👨‍💻 Explore my projects below or on my [GitHub profile](https://github.com/shivanivemula17).  
 - 📫 **Email**: [shivanivemula17@gmail.com](mailto:shivanivemula17@gmail.com)
 
@@ -59,6 +59,10 @@
 - **[OBS-online-book-store-](https://github.com/shivanivemula17/OBS-online-book-store-)** — Online Bookstore project.
 - **[Coffee-Marketplace-Workshop-Website](https://github.com/shivanivemula17/Coffee-Marketplace-Workshop-Website)** — Coffee marketplace mockup website.  
 - **[8bit-website](https://github.com/shivanivemula17/8bit-website)** — Retro-styled 8-bit themed website.
+
+
+### 🆕 Data Engineering 
+- **[fabric-sales-analytics-pipeline](https://github.com/shivanivemula17/fabric-sales-analytics-pipeline)** — End-to-end Sales Data Pipeline using Microsoft Fabric with Medallion Architecture, SCD Type 1, Fact & Dimension modeling, semantic model.
   
 
 ### 🔧 KNIME Workflows
@@ -87,6 +91,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="36" height="36" alt="Keras" />
   <img src="https://github.com/user-attachments/assets/206c5f1d-0a5e-478a-8daf-2869531d1e80" width="55" height="55" alt="NLTK" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="150" height="200" alt="Tableau" />
+  <img src="https://github.com/user-attachments/assets/b0178df1-735d-4fe1-8f22-881055476af0"  width="36" height="36"  alt="Microsoft Fabric"/>
   <img src="https://tse3.mm.bing.net/th/id/OIP.MXlR-c5ZYZxD4gSsr8G24wAAAA?cb=ucfimg2&pid=ImgDet&ucfimg=1&w=178&h=178&c=7&dpr=1.5&o=7&rm=3" width="36" height="36" alt="KNIME" />
 </p>
 
