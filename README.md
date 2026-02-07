@@ -12,10 +12,10 @@
 ---
 
 ### 🚀 About Me:
-- 🌱 Actively learning and exploring ** AI, Data Analytics, Data Visualization, Data Engineering**.
-- ✅ Completed a **Python Full Stack Development** course.  
-- 📊 Passionate about **Data Analysis**, **Tableau dashboards**, and building ML solutions.  
-- 💻 Skilled in **HTML, CSS, JavaScript, jQuery, Python, Django, MySQL, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, NLTK, Tableau, PySpark, Microsoft Fabric**.  
+- 💼 Currently working as a Data Engineer at Baadalsoft
+- 🌱 Expanding my knowledge in Data Engineering, AI, Machine Learning, Deep Learning, Generative AI, LLMs, and RAG applications
+- 📊 Passionate about AI technologies and designing efficient data engineering workflows
+- 💻 Skilled in **HTML, CSS, JavaScript, jQuery, Python, Django, SQL, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, NLTK, Tableau, PySpark, Microsoft Fabric**.  
 - 👨‍💻 Explore my projects below or on my [GitHub profile](https://github.com/shivanivemula17).  
 - 📫 **Email**: [shivanivemula17@gmail.com](mailto:shivanivemula17@gmail.com)
 
@@ -99,13 +99,6 @@
 ---
 
 ### 💬 My Journey
-I enjoy building small web apps, exploring ML models in notebooks, and improving my full-stack skills. I’m always learning new techniques and open to collaborations or internships.
+I am passionate about working with data and growing in the fields of Data Engineering and AI. I enjoy learning modern technologies and building solutions that transform data into valuable insights.
 
 ---
-
-**If you want**, I can:
-- convert the above into HTML (instead of Markdown) to match your current styling,  
-- generate short README.md files for each repo (with `How to run`, `Tech used`, `Sample output` sections), or  
-- create README badges and pin the top 3 repos for your profile.
-
-Which one should I do next?
