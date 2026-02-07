@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani Vemula</h1>
-<h3 align="center">A Tech Enthusiast Skilled in Machine Learning, Deep Learning, Full-Stack Development, Data Visualization, Data Engineering, LLMs, RAG Applications</h3>
+<h3 align="center">A Tech Enthusiast Skilled in Data Engineering, Machine Learning, Deep Learning, LLMs, RAG Applications, Data Visualization, Full-Stack Development</h3>
 
 <div align="center">
   <img alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
