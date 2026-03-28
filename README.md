@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me:
-- 💼 Currently working as a Data Engineer at Baadalsoft
+- 💼 Currently working at Baadalsoft
 - 🌱 Expanding my knowledge in Data Engineering, AI, Machine Learning, Deep Learning, Generative AI, LLMs, and RAG applications
 - 📊 Passionate about AI technologies and designing efficient data engineering workflows
 - 💻 Skilled in **HTML, CSS, JavaScript, jQuery, Python, Django, SQL, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, NLTK, Tableau, PySpark, Microsoft Fabric**.  
