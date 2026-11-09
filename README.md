@@ -24,6 +24,161 @@
 
 ---
 
+##  Tools & Technologies
+
+<!-- ======================================================= -->
+<!--                    Technical Skills & Technologies                      -->
+<!-- ======================================================= -->
+
+
+### 💻 Programming Languages, Development & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,django,fastapi,mysql,mongodb" alt="Programming and Database Skills"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/MySQL_Connector-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Connector"/>
+</p>
+
+- Python
+- SQL
+- MongoDB
+- MySQL
+- MySQL Connector
+- Django
+- FastAPI
+- REST APIs
+- HTML
+- CSS
+- JavaScript
+- Data Structures
+
+### ⚙️ Data Engineering & Cloud Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,python" alt="Azure and Python"/>
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/ETL_ELT-2563EB?style=for-the-badge" alt="ETL ELT"/>
+  <img src="https://img.shields.io/badge/Data_Modeling-0A9396?style=for-the-badge" alt="Data Modeling"/>
+  <img src="https://img.shields.io/badge/Data_Integration-457B9D?style=for-the-badge" alt="Data Integration"/>
+  <img src="https://img.shields.io/badge/Data_Processing-6C63FF?style=for-the-badge" alt="Data Processing"/>
+  <img src="https://img.shields.io/badge/Data_Pipelines-00897B?style=for-the-badge" alt="Data Pipelines"/>
+</p>
+
+- Microsoft Fabric
+- Azure Data Factory
+- Databricks
+- ETL / ELT
+- Data Integration
+- Data Modeling
+- Data Processing
+- Data Pipelines
+
+### 🤖 Artificial Intelligence, Machine Learning & Generative AI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI and ML Frameworks"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/NLP-2E86C1?style=for-the-badge" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-6C3483?style=for-the-badge" alt="Agentic AI"/>
+  <img src="https://img.shields.io/badge/OCR-1565C0?style=for-the-badge" alt="OCR"/>
+  <img src="https://img.shields.io/badge/Azure_AI_Document_Intelligence-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Document Intelligence"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-222222?style=for-the-badge" alt="LangGraph"/>
+</p>
+
+- Machine Learning (ML)
+- Deep Learning (DL)
+- Natural Language Processing (NLP)
+- Generative AI (GenAI)
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Optical Character Recognition (OCR)
+- Azure AI Document Intelligence
+- LangChain
+- LangGraph
+
+### 📊 Data Analytics, Data Science & Business Intelligence
+
+<p align="left">
+  <img src="https://img.shields.io/badge/EDA-3498DB?style=for-the-badge" alt="EDA"/>
+  <img src="https://img.shields.io/badge/Statistical_Analysis-5C6BC0?style=for-the-badge" alt="Statistical Analysis"/>
+  <img src="https://img.shields.io/badge/Predictive_Analysis-00897B?style=for-the-badge" alt="Predictive Analysis"/>
+  <img src="https://img.shields.io/badge/Time_Series_Analysis-6A5ACD?style=for-the-badge" alt="Time Series Analysis"/>
+  <img src="https://img.shields.io/badge/Data_Analytics-1976D2?style=for-the-badge" alt="Data Analytics"/>
+  <img src="https://img.shields.io/badge/Data_Science-2E86C1?style=for-the-badge" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-26A69A?style=for-the-badge" alt="Data Visualization"/>
+  <img src="https://img.shields.io/badge/Business_Analysis-455A64?style=for-the-badge" alt="Business Analysis"/>
+  <img src="https://img.shields.io/badge/Business_Intelligence-1565C0?style=for-the-badge" alt="Business Intelligence"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Power Query"/>
+</p>
+
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Predictive Analysis
+- Time Series Analysis
+- Data Analysis
+- Data Science
+- Data Visualization
+- Business Analysis
+- Business Intelligence (BI)
+- Power BI
+- Power Query
+
+### 🐍 Python Libraries & Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi" alt="Python Frameworks"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+</p>
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Django
+- FastAPI
+- REST APIs
+
+### 🎯 Professional Technical Domains
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Data_Engineering-0078D4?style=for-the-badge" alt="Data Engineering"/>
+  <img src="https://img.shields.io/badge/Data_Analytics-1976D2?style=for-the-badge" alt="Data Analytics"/>
+  <img src="https://img.shields.io/badge/Data_Science-2E86C1?style=for-the-badge" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/AI_Engineering-8A2BE2?style=for-the-badge" alt="AI Engineering"/>
+  <img src="https://img.shields.io/badge/ML_Engineering-FF6F00?style=for-the-badge" alt="ML Engineering"/>
+  <img src="https://img.shields.io/badge/Business_Analysis-455A64?style=for-the-badge" alt="Business Analysis"/>
+  <img src="https://img.shields.io/badge/Business_Intelligence-1565C0?style=for-the-badge" alt="Business Intelligence"/>
+  <img src="https://img.shields.io/badge/Python_Development-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Development"/>
+  <img src="https://img.shields.io/badge/Backend_Development-34495E?style=for-the-badge" alt="Backend Development"/>
+  <img src="https://img.shields.io/badge/AI_Powered_Applications-8E44AD?style=for-the-badge" alt="AI Applications"/>
+</p>
+
+- Data Engineering
+- Data Analytics
+- Data Science
+- AI Engineering
+- Machine Learning Engineering
+- Business Analysis
+- Business Intelligence
+- Python Development
+- Backend Development
+- AI-Powered Application Development
+
+---
+
 ##  Featured Projects (All public repos)
 
 ### 🤖 Machine Learning & NLP
@@ -77,29 +232,6 @@
 
 ---
 
-##  Tools & Technologies
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36" height="36" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36" height="36" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="36" height="36" alt="Django" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="36" height="36" alt="Matplotlib" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="36" height="36" alt="Seaborn" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" />
-  <img src="https://github.com/user-attachments/assets/7ade9021-1d1d-4f98-b62c-7f9c51fa6678" width="36" height="36" alt="scikit-learn" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="36" height="36" alt="Keras" />
-  <img src="https://github.com/user-attachments/assets/206c5f1d-0a5e-478a-8daf-2869531d1e80" width="55" height="55" alt="NLTK" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="150" height="200" alt="Tableau" />
-  <img src="https://github.com/user-attachments/assets/b0178df1-735d-4fe1-8f22-881055476af0"  width="36" height="36"  alt="Microsoft Fabric"/>
-  <img src="https://tse3.mm.bing.net/th/id/OIP.MXlR-c5ZYZxD4gSsr8G24wAAAA?cb=ucfimg2&pid=ImgDet&ucfimg=1&w=178&h=178&c=7&dpr=1.5&o=7&rm=3" width="36" height="36" alt="KNIME" />
-</p>
-
-
----
 
 ### 💬 My Journey
 I am passionate about working with data and growing in the fields of Data Engineering and AI. I enjoy learning modern technologies and building solutions that transform data into valuable insights.
