@@ -2,7 +2,9 @@
 <h3 align="center">Building Data-Driven Solutions with Data Engineering, AI, Machine Learning & Generative AI</h3>
 
 <div align="center">
-  <img alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
+  <img src="https://raw.githubusercontent.com/ShivaniBaadalsoft/ShivaniBaadalsoft/main/Animated Coding Workspace Storyboard.gif"
+       width="420"
+       alt="Shivani - Professional Coding Animation">
 </div>
 
 <p align="center">
