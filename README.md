@@ -91,8 +91,6 @@
   <img src="https://img.shields.io/badge/Agentic_AI-6C3483?style=for-the-badge" alt="Agentic AI"/>
   <img src="https://img.shields.io/badge/OCR-1565C0?style=for-the-badge" alt="OCR"/>
   <img src="https://img.shields.io/badge/Azure_AI_Document_Intelligence-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Document Intelligence"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-222222?style=for-the-badge" alt="LangGraph"/>
 </p>
 
 - Machine Learning (ML)
@@ -104,8 +102,6 @@
 - Agentic AI
 - Optical Character Recognition (OCR)
 - Azure AI Document Intelligence
-- LangChain
-- LangGraph
 
 ### 📊 Data Analytics, Data Science & Business Intelligence
 
@@ -138,20 +134,31 @@
 ### 🐍 Python Libraries & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi" alt="Python Frameworks"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras" alt="TensorFlow, PyTorch, Keras"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge" alt="NLTK"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
 </p>
 
+**Libraries & Frameworks:**
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Django
 - FastAPI
-- REST APIs
+- Scikit-learn
+- TensorFlow
+- OpenCV
+- NLTK
+- Regex
+- LangChain
+- LangGraph
 
 ### 🎯 Professional Technical Domains
 
