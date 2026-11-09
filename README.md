@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani Vemula</h1>
-<h3 align="center">A Tech Enthusiast Skilled in Machine Learning, Deep Learning, LLMs, RAG Applications, Data Visualization, Full-Stack Development,Data Engineering</h3>
+<h3 align="center">Building Data-Driven Solutions with Data Engineering, AI, Machine Learning & Generative AI</h3>
 
 <div align="center">
   <img alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
@@ -11,17 +11,20 @@
 
 ---
 
-### 🚀 About Me:
-- 💼 Currently working at Baadalsoft LLC.
-- 🌱 Expanding my knowledge in Data Engineering, AI, Machine Learning, Deep Learning, Generative AI, LLMs, and RAG applications
-- 📊 Passionate about AI technologies and designing efficient data engineering workflows
-- 💻 Skilled in **HTML, CSS, JavaScript, jQuery, Python, Django, SQL, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, NLTK, Tableau, PySpark, Microsoft Fabric**.  
-- 👨‍💻 Explore my projects below or on my [GitHub profile](https://github.com/shivanivemula17).  
-- 📫 **Email**: [shivanivemula17@gmail.com](mailto:shivanivemula17@gmail.com)
+### 👩‍💻 About Me
+
+- 💼 Working at **Baadalsoft LLC**.
+- ⚙️ Exploring and building solutions in **Data Engineering, AI, and Generative AI**.
+- 🚀 Interested in developing scalable data pipelines, intelligent applications, and automation solutions.
+- 🧠 Exploring **Machine Learning, Deep Learning, NLP, LLMs, RAG, and Agentic AI**.
+- 💻 Working with **Python, SQL, Django, FastAPI, PySpark, Microsoft Fabric, and REST APIs**.
+- 📊 Experienced in **Data Analysis, Data Visualization, Tableau, Power BI, and Data Modeling**.
+- 👨‍💻 Check out my projects: [GitHub Repositories](https://github.com/shivanivemula17).
+- 📫 **Email:** [shivanivemula17@gmail.com](mailto:shivanivemula17@gmail.com)
 
 ---
 
-## 🔥 Featured Projects (All public repos)
+##  Featured Projects (All public repos)
 
 ### 🤖 Machine Learning & NLP
 - **[multi-PDF_chatbot](https://github.com/shivanivemula17/multi-PDF_chatbot)** — Chatbot that works with multiple PDFs (Python).  
@@ -74,7 +77,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36" height="36" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36" height="36" alt="CSS3" />
